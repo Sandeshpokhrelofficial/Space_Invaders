@@ -1,5 +1,6 @@
 #include<iostream>
+using namespace std;
 int main() {
-	std::cout << "Is it working?" << endl;
-	std::cin.get();
+	cout << "Yes it is working." << endl;
+	cin.get();
 }
